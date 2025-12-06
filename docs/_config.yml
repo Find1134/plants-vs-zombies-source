@@ -1,0 +1,5 @@
+title: "植僵Python网"
+description: "《植物大战僵尸》Python版官网"
+url: "https://novaatsne.github.io/"
+baseurl: "/plants-vs-zombies-python"
+theme: "jekyll-theme-minima"
